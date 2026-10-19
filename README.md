@@ -2,7 +2,7 @@
 
 Repositori ini berisi penyelesaian Tugas Ujian Tengah Semester (UTS) mata kuliah Machine Learning. Proyek ini mencakup implementasi algoritma Machine Learning dari dasar (menggunakan NumPy) tanpa bantuan library pihak ketiga seperti Scikit-Learn untuk inti algoritmanya.
 
-## Identitas Mahasiswa
+## 👩‍🎓 Identitas Mahasiswa
 *   **Nama:** Maharani Putri Junaidi
 *   **NIM:** 241011400308
 *   **Kelas:** Reg CS (05TPLE005)
