@@ -32,3 +32,4 @@ Repositori ini berisi penyelesaian Tugas Ujian Tengah Semester (UTS) mata kuliah
 2. Buka file `tugas_UTS.ipynb` menggunakan Jupyter Notebook atau Google Colab.
 3. Pastikan file dataset (`.csv`) berada di direktori yang sama dengan notebook.
 4. Jalankan semua cell (Run All).
+
